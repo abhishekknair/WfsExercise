@@ -1,0 +1,66 @@
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\ApplicationInsights.config
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\csc.exe
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\vbc.exe
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\VBCSCompiler.exe
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\WfsNotes.dll.config
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\WfsNotes.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\WfsNotes.pdb
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.Web.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.ApplicationInsights.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.Web.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.ApplicationInsights.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\obj\Debug\WfsNotes.csprojResolveAssemblyReference.cache
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\obj\Debug\WfsNotes.dll
+c:\users\jinit\documents\visual studio 2015\Projects\WfsNotes\WfsNotes\obj\Debug\WfsNotes.pdb
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\ApplicationInsights.config
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\csc.exe
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\vbc.exe
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\WfsNotes.dll.config
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\WfsNotes.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\WfsNotes.pdb
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.Web.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.Web.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\obj\Debug\WfsNotes.csprojResolveAssemblyReference.cache
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\obj\Debug\WfsNotes.dll
+C:\Users\jinit\Desktop\Abhi\Projects\WFS\WfsNotes\WfsNotes\obj\Debug\WfsNotes.pdb

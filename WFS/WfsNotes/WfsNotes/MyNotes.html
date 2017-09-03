@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html ng-app="myNote">
+<head>
+    <title>My Notes</title>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.js"></script>
+    <script src="https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.2.js"></script>
+    <script src="addnote.js"></script>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <link href="styles/styles.css" rel="stylesheet" />
+    <script src="scripts/notes.js"></script>
+</head>
+<body>
+    <div id="divMyNote" ng-app="myNote">
+        <div ng-controller="noteCtrl">
+            <div>
+                <table>
+                    <tr>
+                        <td colspan="3"><h2>My Notes</h2> </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button class="btn btn-default" ng-click="open()">Add</button>
+                        </td>
+                        <td>
+                            Filter:
+                            <input type="checkbox" ng-click="includeColour('LightBlue')" />
+                            <img src="images/blue.png" />
+                            <input type="checkbox" ng-click="includeColour('Pink')" />
+                            <img src="images/pink.png" />
+                            <input type="checkbox" ng-click="includeColour('LightYellow')" />
+                            <img src="images/yellow.png" />
+                        </td>
+                        <td>
+                            <button class="btn btn-default" ng-click="clearAll()">Clear All</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <div ng-repeat="f in note | filter:colourFilter">
+                                <div id="divColourText" style="background-color:{{f.colour}}">
+                                    {{f.text}}
+                                    <div id="divClose">
+                                        <a href="#" ng-click="remove($index)">X</a>
+                                    </div>
+                                </div><span></span>
+                            </div>
+
+                        </td>
+                    </tr>
+                </table>
+
+
+            </div>
+
+            <div>
+                <script type="text/ng-template" id="myModalContent.html" style="padding: 5px;">
+                    <div style="width:400px; padding: 5px;">
+                        <div class="modal-header">
+                            <h3 class="modal-title">Add Note</h3>
+                        </div>
+                        <form name="addNoteForm">
+                            <textarea name="Text1" ng-model="newnote.text" cols="40" rows="5"></textarea><br />
+                            <label>Colour: </label>
+                            <div ng-init="newnote.colour='LightBlue'">
+                                <input type="radio" ng-model="newnote.colour" value="LightBlue" checked="checked" />
+                                <img src="images/blue.png" />
+                                <input type="radio" ng-model="newnote.colour" value="Pink" />
+                                <img src="images/pink.png" />
+                                <input type="radio" ng-model="newnote.colour" value="LightYellow" />
+                                <img src="images/yellow.png" />
+                            </div>
+                        </form>
+                        <div class="modal-footer">
+                            <button class="btn btn-primary" ng-click="ok()">OK</button>
+                            <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                        </div>
+                    </div>
+                </script>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
